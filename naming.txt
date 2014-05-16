@@ -1,0 +1,48 @@
+async sync
+asynchronous synchronous
+rpc
+remote local
+hosted
+client server
+req rsp
+request response
+req rep
+request reply
+codec
+connect accept
+provider consumer
+source sink
+src snk
+src target
+src tgt
+source destination
+src dst
+success failure
+results
+hits
+rank
+data
+exp, expression
+q, query
+found
+start
+title
+year
+facet
+type
+size
+alpha beta gamma delta - http://en.wikipedia.org/wiki/Greek_alphabet
+ceil, floor
+min, max
+app
+resource
+util
+pct
+latency
+throughput
+server client
+upstream downstream
+index
+store
+field
+schema
